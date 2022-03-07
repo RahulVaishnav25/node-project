@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "p1": "node p1.js",
+    "p2": "node p2.js",
+    "p4": "node p4.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "csv-writer": "^1.6.0",
+    "dayjs": "^1.10.8",
+    "express": "^4.17.3",
+    "json2csv": "^5.0.7",
+    "moment": "^2.29.1",
+    "typescript": "^4.6.2"
+  }
+}
